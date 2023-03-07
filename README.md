@@ -10,6 +10,12 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=csabca8&show_icons=true" />
 </picture>
+<picture>
+  <source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=csabca83"
+  media="(prefers-color-scheme: dark)"
+/>
+</picture>
 <!--
 **csabca83/csabca83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
