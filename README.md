@@ -7,6 +7,7 @@
 #### Here on my GitHub profile, you can find a collection of my projects and contributions to various open source communities. I am always excited to collaborate and learn from others in the community, so please feel free to reach out to me for any questions, comments or suggestions.
 
 ### Thank you for stopping by!
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=csabca83&show_icons=true&theme=outrun&hide_border=true"
