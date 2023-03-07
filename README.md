@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! Welcome to my GitHub profile!
+
+#### I am a skilled Python and GO developer with experience in AWS, CICD, Docker and Kubernetes. I am also a certified AWS developer and Hashicorp terraform certified, with a passion for creating scalable, efficient and reliable cloud infrastructure.
+
+#### Apart from coding, I enjoy spending my free time playing games, travelling. I believe that a well-balanced life is important to maintain creativity and productivity in the workspace.
+
+#### Here on my GitHub profile, you can find a collection of my projects and contributions to various open source communities. I am always excited to collaborate and learn from others in the community, so please feel free to reach out to me for any questions, comments or suggestions.
+
+### Thank you for stopping by!
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=csabca83&show_icons=true&theme=outrun&hide_border=true"
