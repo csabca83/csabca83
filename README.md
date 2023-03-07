@@ -1,6 +1,6 @@
 ![Hello-There](https://i.imgur.com/4fapXiz.gif)
 
-###Welcome to my GitHub profile!
+### Welcome to my GitHub profile!
 
 #### I am a skilled Python and GO developer with experience in AWS, CICD, Docker and Kubernetes. I am also a certified AWS developer and Hashicorp terraform certified, with a passion for creating scalable, efficient and reliable cloud infrastructure.
 
