@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-#### I am a skilled Python and GO developer with experience in AWS, CICD, Docker and Kubernetes. I am also a certified AWS developer and Hashicorp terraform certified, with a passion for creating scalable, efficient and reliable cloud infrastructure.
+#### I am an AWS Cloud DevOps Engineer who enjoys working with Python and GO. I have experience in AWS, CICD, Docker, and Kubernetes, and I'm passionate about building scalable, efficient, and reliable cloud infrastructure.
 
 #### Apart from coding, I enjoy spending my free time playing games, travelling. I believe that a well-balanced life is important to maintain creativity and productivity in the workspace.
 
