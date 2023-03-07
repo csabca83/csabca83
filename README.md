@@ -1,7 +1,7 @@
 ### Hi there 👋
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=csabca83&show_icons=true&theme=outrun&hide_border"
+  srcset="https://github-readme-stats.vercel.app/api?username=csabca83&show_icons=true&theme=outrun&hide_border=true"
   media="(prefers-color-scheme: dark)"
 />
 </picture>
