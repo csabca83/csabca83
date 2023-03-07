@@ -12,10 +12,10 @@
 </picture>
 <picture>
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1"
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=&theme=outrun"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=&theme=outrun" />
 </picture>
 <!--
 **csabca83/csabca83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
