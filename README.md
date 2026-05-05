@@ -2,12 +2,6 @@
 
 ### Welcome to my GitHub profile!
 
-#### I am an AWS Cloud DevOps Engineer who enjoys working with Python and GO. I have experience in AWS, CICD, Docker, and Kubernetes, and I'm passionate about building scalable, efficient, and reliable cloud infrastructure.
-
-#### Apart from coding, I enjoy spending my free time playing games, travelling. I believe that a well-balanced life is important to maintain creativity and productivity in the workspace.
-
-#### Here on my GitHub profile, you can find a collection of my projects and contributions to various open source communities. I am always excited to collaborate and learn from others in the community, so please feel free to reach out to me for any questions, comments or suggestions.
-
 ### Thank you for stopping by!
 
 <picture>
